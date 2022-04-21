@@ -1,5 +1,11 @@
 # README
 
+Based in the course:
+
+Learn Ruby on Rails - Full Course
+Available in: https://www.youtube.com/watch?v=fmyvWz5TUWg
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
